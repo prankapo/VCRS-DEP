@@ -1,4 +1,4 @@
-# This first version of Voyager CRS Data Extraction and Plotting (VCRS DEP) program  
+# This the first version of Voyager CRS Data Extraction and Plotting (VCRS DEP) program  
     
 ## Note for people who wish to run this code themselves  
 1. Your internet connection should be stable while the dump of files is being taken from omniweb. If with an unstable connection you keep on trying to extract data from the site, the servers will block you out for about a day. This happened with me when I was using mobile datapack to perform extraction and direct commit to SQL database.  
